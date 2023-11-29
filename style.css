@@ -1,0 +1,68 @@
+body{
+    background-color: #F3F1FF;
+}
+.navbar img{
+    width: 40px;
+
+}
+.player img{
+    width:56px;
+}
+main{
+    max-width: 870px;
+}
+.blogs img{
+    width:177px;
+}
+.bologs{
+    float: left;
+}
+.blogs a{
+    text-decoration: none;
+}
+.row{
+    margin-bottom: 20px;
+}
+.row-padding{
+    padding-bottom: 30px;
+}
+.fw-normal{
+    font-size: small;
+    color:#ED6B4F ;
+}
+.star_icon{
+    width: 70px;
+}
+.clock_icon{
+    width: 20px;
+    margin-left:3px;
+    margin-right: 2px;
+}
+.card{
+border: none;
+}
+.timer_position{
+    float: left;
+    margin-right: 5px;
+}
+.Background_color{
+    background-color: #FEE5DF;
+    border-radius: 10px;
+}
+.padding-left{
+    padding-right: 10px;
+    padding-bottom: 3px;
+}
+.margin_bottom{
+    margin-bottom: 30px;
+}
+.card{
+    box-shadow: 5px 5px 15px lightgray;
+}
+.container_margin{
+    padding-bottom: 30px;
+}
+.card :hover img{
+    transition-duration: 2s;
+
+}
